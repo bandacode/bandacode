@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bandacode" alt="bandacode" /> </p>
 
-- 🌱 I’m currently learning **flutter for cross-platform development, as well as Unity for game development**
+- 🌱 I’m currently using **flutter for cross-platform development**, and learning **Unity for game development**
 
 - 💬 Ask me about **Android and Laravel Development**
 
