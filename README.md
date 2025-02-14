@@ -1,20 +1,73 @@
-<h1 align="center">Hi 👋, I'm Chembe</h1>
-<h3 align="center">A software developer from Zambia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bandacode" alt="bandacode" /> </p>
-
-- 🌱 I’m currently using **flutter for cross-platform development**, and learning **Unity for game development**
-
-- 💬 Ask me about **Android and Laravel Development**
-
-- 📫 How to reach me **cbthe1st@gmail.com**
-
-- ⚡ Fun fact **Ctrl+C, Ctrl+V**
-
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandacode&layout=compact&hide=html" alt="bandacode" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bandacode&show_icons=true" alt="bandacode" /></p>
+<!-- NEW STORY FOR YOUR GITHUB PROFILE -->
+<h1 align="center">Hey there, I'm Chembe! 👋</h1>
+<h3 align="center">Cross-Platform Mobile Developer from Zambia</h3>
 
 <p align="center">
-<a href="https://instagram.com/bchembe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bchembe" height="30" width="30" /></a>
+  <em>
+    “Empowering ideas with clean, scalable, and cross-platform solutions built with Flutter.”
+  </em>
+</p>
+
+---
+
+### About Me
+
+- 🌱 **Flutter Pro**  
+  With over <strong>5 years of Flutter experience</strong>, I specialize in creating high-performance apps that work beautifully across multiple platforms.
+
+- 🛠 **Backend Skills**  
+  I build and maintain reliable backends using **TypeScript**, **Go**, and **Java**.
+
+- 🎮 **Game Dev on Hold**  
+  While I've dabbled in Unity, game development is currently paused so I can pour my energy into mobile and backend expertise.
+
+- 🤝 **Open to Collaborate**  
+  Love to brainstorm or pair-program on interesting Flutter-based or backend projects.
+
+- 📫 **Reach Me Anytime**  
+  <a href="mailto:cbthe1st@gmail.com">cbthe1st@gmail.com</a> | Twitter [@bandaknight1](https://twitter.com/bandaknight1)
+
+- 🔗 **My Website**  
+  <a href="https://bandasoftworks.web.app" target="_blank">bandasoftworks.web.app</a>
+
+---
+
+### Tech Stack & Tools
+
+<p>
+  <!-- Flutter -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <!-- Dart -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <!-- Go -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <!-- Android -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+  <!-- iOS (Apple) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="iOS" alt="iOS" width="40" height="40"/>&nbsp;
+  <!-- Firebase -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bandacode&show_icons=true&theme=material-palenight" alt="Chembe's GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandacode&layout=compact&theme=material-palenight" alt="Chembe's Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <em>Thanks for visiting! Feel free to reach out or drop a star if you find my work helpful.</em>
 </p>
